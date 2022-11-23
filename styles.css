@@ -19,7 +19,21 @@ li {
 }
 
 h1 {
-    font-size: 3em;
-    font-weight: 700;
+    font-size: 5em;
+    font-weight: 600;
+}
+nav ul {
+    display: flex;
+    gap: 1rem;
+}
+
+nav a {
+    text-decoration: none;
+    color:azure;
+    text-transform: uppercase;
+    font-size: 1.5em;
+    font-weight:500;
+    background-color:darkmagenta;
+    padding: 1rem;
 }
 
