@@ -24,7 +24,7 @@ h1 {
 }
 nav ul {
     display: flex;
-    gap: 1rem;
+    gap: 6rem;
 }
 
 nav a {
@@ -37,3 +37,6 @@ nav a {
     padding: 1rem;
 }
 
+nav a:hove {
+    background-color:green;
+}
